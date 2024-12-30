@@ -91,10 +91,6 @@ The Google Gemini-Pro AI model is configured using the `google-generativeai` lib
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue to discuss changes or new features.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 - [Streamlit](https://streamlit.io/) for the interactive UI framework.
 - [Google Generative AI](https://cloud.google.com/generative-ai) for the Gemini-Pro model.
