@@ -2,6 +2,8 @@
 
 This repository contains a Streamlit application for interacting with the Google Gemini-Pro AI model. The chatbot uses Streamlit's user-friendly interface to facilitate conversational AI interactions.
 
+# gemini-pro-streamlit-chatbot
+This repository is about building a chatbot using Google's Gemini-Pro with streamlit.
 
 ## Features
 - **Streamlit-based Chat Interface**: A simple, clean interface for interacting with the chatbot.
