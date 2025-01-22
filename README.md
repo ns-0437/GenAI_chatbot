@@ -11,7 +11,7 @@ This repository is about building a chatbot using Google's Gemini-Pro with strea
 - **Customizable Themes**: Includes a custom dark theme with white background for better readability.
 - **Session Persistence**: Maintains chat history within the session.
 
-## Requirements
+## Requirement
 
 - Python 3.9 or above
 - `streamlit`
